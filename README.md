@@ -9,3 +9,7 @@
 - 😄 Pronouns: he/him
 <!-- ⚡ Fun fact: ...-->
 
+## 👾 Profile details
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=gjbauer&theme=vue&show_icons=true&rank_icon=github)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gjbauer&layout=donut&theme=vue&show_icons=true)
