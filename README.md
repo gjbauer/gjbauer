@@ -2,7 +2,7 @@
 
 I have been **programming for 14 years**.
 
-- 🔭 I’m currently working on my Bachelor's in Computer Science with a Minor in French
+- 🔭 I’m currently working on my Bachelor's in Computer Science
 - 🌱 I’m currently learning Computer Architecture and Software Engineering
 - 💬 Ask me about Mach Ports
 - 📫 How to reach me: gabeb1277@gmail.com
