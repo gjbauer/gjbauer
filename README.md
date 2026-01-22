@@ -3,7 +3,7 @@
 I have been **programming for 14 years**.
 
 - 🔭 I’m currently working on my Bachelor's in Computer Science
-- 🌱 I’m currently learning Anatomy & Physiology I
+- 🌱 I’m currently learning Anatomy & Physiology I & History of Modern Europe (1300-200)
 - 💬 Ask me about Mach Ports
 - 📫 How to reach me: gabeb1277@gmail.com
 - 😄 Pronouns: he/him
