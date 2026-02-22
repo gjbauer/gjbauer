@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I have been **programming for 14 years**.
+I have been **programming for 15 years**.
 
 - 🔭 I’m currently working on my Bachelor's in Computer Science
 - 🌱 I’m currently learning Anatomy & Physiology I & History of Modern Europe (1300-200)
