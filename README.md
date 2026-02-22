@@ -7,6 +7,8 @@ I have been **programming for 15 years**.
 - 💬 Ask me about Mach Ports
 - 📫 How to reach me: gabeb1277@gmail.com
 - 😄 Pronouns: he/him
+
+Check out my [Gists](https://gist.github.com/gjbauer)
 <!-- 🤔 I’m looking for help with Calculus BC-->
 <!-- 👯 I’m looking to collaborate on ...-->
 <!-- ⚡ Fun fact: ...-->
