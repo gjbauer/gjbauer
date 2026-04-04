@@ -17,3 +17,7 @@ Check out my [Gists](https://gist.github.com/gjbauer)
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=gjbauer&theme=vue&show_icons=true&rank_icon=github)
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gjbauer&layout=donut&theme=vue&show_icons=true)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gjbauer&color=58A6FF&style=flat-square&label=Profile+Views" />
+</p>
