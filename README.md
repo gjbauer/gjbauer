@@ -2,7 +2,7 @@
 
 I have been **programming for 15 years**.
 
-- 🔭 I’m currently working on B+Tree filesystem
+- 🔭 I’m currently working on my B+Tree filesystem
 - 💬 Ask me about Mach Ports
 - 📫 How to reach me: gabeb1277@gmail.com
 - 😄 Pronouns: he/him
